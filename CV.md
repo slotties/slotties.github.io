@@ -10,7 +10,7 @@ title: "Stefan Lotties - Software Developer"
 - lives in Cologne, Germany
 - more than 20 years of experience as software developer
 - is striving for freedom in his area of work
-- prefers teams that don't require much leadership but are motived to do things on their own
+- prefers teams that don't require much leadership but are motivated to do things on their own
 - doesn't care about benifits such as a coffee bar
 - likes to work in office (Cologne, Germany) and remote as he wishes to
 
